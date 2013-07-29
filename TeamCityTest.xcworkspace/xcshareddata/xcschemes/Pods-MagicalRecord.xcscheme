@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3DA7D437703440639A94FA53"
-               BuildableName = "libPods-SOCKit.a"
-               BlueprintName = "Pods-SOCKit"
-               ReferencedContainer = "container:Pods.xcodeproj">
+               BlueprintIdentifier = "938FFED06EBC46E091370010"
+               BuildableName = "libPods-MagicalRecord.a"
+               BlueprintName = "Pods-MagicalRecord"
+               ReferencedContainer = "container:Pods/Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

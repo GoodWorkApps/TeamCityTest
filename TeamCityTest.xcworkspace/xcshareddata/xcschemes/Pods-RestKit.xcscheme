@@ -17,7 +17,7 @@
                BlueprintIdentifier = "3BD88DEBBF1B4419B1112D2C"
                BuildableName = "libPods-RestKit.a"
                BlueprintName = "Pods-RestKit"
-               ReferencedContainer = "container:Pods.xcodeproj">
+               ReferencedContainer = "container:Pods/Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
